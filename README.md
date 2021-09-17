@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melxincognito
-- 👀 I’m interested in art and creativity. 
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning full stack web and iOS development. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me - email me at melxincognito@gmail.com
