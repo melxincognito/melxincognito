@@ -1,10 +1,12 @@
+🇺🇸 🇬🇧
 - 👋 Hi, I’m @melxincognito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning full stack web development using REACTJS . 
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in creating Web and Mobile applications with React.JS and React Native. 
+- 💞️ I’m looking to collaborate on open source projects and gain more experience building automation applications using Python. 
 - 📫 How to reach me - email me at melxincognito@gmail.com
 
-<!---
-melxincognito/melxincognito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇪🇸
+- 👋 Hola, soy @melxincognito
+- 👀 Estoy interesada en creando aplicaciónes para el web y para moviles usando React.JS y React Native. 
+- 💞️ Me gustaria colaborar en proyectos de Open Source y tener oportunidades para obtener experiencia construyendo aplicaciónes de automatización usando Python.
+- 📫 Información de Contacto - correo electrónico @ melxincognito@gmail.com
+
