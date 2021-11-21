@@ -6,7 +6,7 @@
 
 🇪🇸 🇲🇽
 - 👋 Hola, soy @melxincognito
-- 👀 Estoy interesada en construyendo aplicaciónes para el web y para móviles usando React.JS y React Native. 
-- 💞️ Me gustaria colaborar en proyectos de Open Source y tener oportunidades para obtener experiencia construyendo aplicaciónes de automatización usando Python.
+- 👀 Estoy interesada en construyendo aplicaciónes para el web y para móviles utilizando React.JS y React Native. 
+- 💞️ Me gustaria colaborar en proyectos de Open Source y tener oportunidades para obtener experiencia construyendo aplicaciónes de automatización utilizando Python.
 - 📫 Información de Contacto - correo electrónico @ melxincognito@gmail.com
 
