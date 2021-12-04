@@ -7,7 +7,7 @@
 🇪🇸 🇲🇽
 - 👋 Hola, soy @melxincognito
 - 👀 Estoy interesada en creando aplicaciónes utilizando React.JS y trabajando con tecnologías de blockchain. 
-- 💞️ Me gustaria colaborar en proyectos de Open Source utilizando Solana blochain y React.JS.
+- 💞️ Me gustaria colaborar en proyectos de Open Source utilizando Solana Blockchain y React.JS.
 - 📫 Información de Contacto - correo electrónico @ melxincognito@gmail.com
 
 🇫🇷🇨🇦
