@@ -10,11 +10,3 @@
 - 💞️ Me gustaria colaborar en proyectos de Open Source utilizando React.JS and Rust.
 - 📫 Información de Contacto - twitter @melxincognito
 
-🇫🇷 FR 🇨🇦
-- 👋 Bonjour, je suis @melxincognito
-- 👀 Je suis intéressé par la création d'applications Web avec React.JS et par l'utilisation des technologies blockchain.
-- 💞️ J'aimerais collaborer sur des projets open source utilisant React.JS et Rust.
-- 📫 Informations de contact - twitter @melxincognito
-
-
-
