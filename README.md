@@ -7,7 +7,7 @@
 
 
 ## 🌍 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melgonzalez092/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/melxincognito) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/melxincognito) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/melxincognito) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melgonzalez092) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/melxincognito) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/melxincognito) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCIsEgMaokVbYBt6siV9y1NQ) 
 
 
 
@@ -17,9 +17,6 @@
    src="https://github-readme-stats.vercel.app/api?username=melxincognito&show_icons=true&theme=radical" 
 />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=melxincognito&layout=compact&theme=radical&hide=swift'/>
-
-
-
 
 
 
