@@ -1,4 +1,6 @@
-<img width="1200" alt="github-header" src="https://user-images.githubusercontent.com/86626927/181935437-8777fb29-2b06-42a8-8093-6bdd175afe8b.png">
+<kbd>
+<img width="1200" alt="github-header" src="https://user-images.githubusercontent.com/86626927/181935437-8777fb29-2b06-42a8-8093-6bdd175afe8b.png" >
+</kbd>
 
 ## 💻 Tech Stack:
 <p align="left"> 
